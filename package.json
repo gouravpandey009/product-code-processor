@@ -1,0 +1,14 @@
+{
+    "name": "sde-assignment-product-codes",
+    "version": "1.0.0",
+    "description": "SDE Assignment - Product Code Processor",
+    "main": "product-code-processor.js",
+    "scripts": {
+      "test": "node test.js",
+      "start": "node test.js"
+    },
+    "keywords": ["product-codes", "validation", "nodejs"],
+    "author": "Gourav Pandey",
+    "license": "ISC"
+  }
+  
