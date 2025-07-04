@@ -53,14 +53,12 @@ node test.js
 - `README.md` - This instruction file
 
 ## Expected Output
-\`\`\`json
 {
   "totalCodes": 6,
   "validCodes": 3,
   "invalidCodes": 3,
   "normalizedValidCodes": ["ABC1234", "DEF5678", "LMN9876"]
 }
-\`\`\`
 
 ## Testing
 The test file will show:
