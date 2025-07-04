@@ -1,4 +1,4 @@
-# SDE Assignment - Product Code Processor
+# Product Code Processor
 
 ## Problem Statement
 Clean the Product Codes - Validate and normalize product codes that should follow the format: 3 uppercase letters followed by 4 digits.
@@ -61,11 +61,6 @@ node test.js
   "normalizedValidCodes": ["ABC1234", "DEF5678", "LMN9876"]
 }
 \`\`\`
-
-## Submission
-- Email `product-code-processor.js` to: careers@saralweb.com
-- Subject: "SDE Assignment - July 2025"
-- Attach the .js file (not text/PDF)
 
 ## Testing
 The test file will show:
